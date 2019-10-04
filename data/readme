@@ -1,1 +1,4 @@
-the data sets are attached here
+the test and train set file names are attached here.
+
+The data sets can be obtained from : http://vis-www.cs.umass.edu
+or use webcasia as I did (mind you, you will have to create the gloc model parameter sets)
