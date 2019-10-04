@@ -1,0 +1,2603 @@
+>> run_lfw_gloc
+
+start SLR training
+
+processing the features!!
+..................................................500
+..................................................1000
+..................................................1500
+
+done!
+ Iteration   FunEvals     Step Length    Function Val        Opt Cond
+         1          5     3.45102e+01     7.62257e-01     1.54317e+01
+         2          6     1.00000e+00     4.64739e-01     6.10187e+00
+         3          7     1.00000e+00     3.62390e-01     3.22743e+00
+         4          8     1.00000e+00     3.08535e-01     2.41078e+00
+         5          9     1.00000e+00     2.79766e-01     1.66600e+00
+         6         10     1.00000e+00     2.71002e-01     1.24502e+00
+         7         11     1.00000e+00     2.63155e-01     1.17523e+00
+         8         12     1.00000e+00     2.56029e-01     1.16060e+00
+         9         13     1.00000e+00     2.48833e-01     1.14902e+00
+        10         14     1.00000e+00     2.42476e-01     8.79971e-01
+        11         15     1.00000e+00     2.37862e-01     7.90792e-01
+        12         16     1.00000e+00     2.33765e-01     8.44471e-01
+        13         17     1.00000e+00     2.30855e-01     8.08201e-01
+        14         18     1.00000e+00     2.28382e-01     5.55039e-01
+        15         19     1.00000e+00     2.26293e-01     4.61322e-01
+        16         20     1.00000e+00     2.24900e-01     4.19107e-01
+        17         21     1.00000e+00     2.24006e-01     4.77898e-01
+        18         22     1.00000e+00     2.22950e-01     2.88223e-01
+        19         23     1.00000e+00     2.22581e-01     2.54739e-01
+        20         24     1.00000e+00     2.22069e-01     2.33940e-01
+        21         26     4.53948e-01     2.21816e-01     2.31598e-01
+        22         27     1.00000e+00     2.21556e-01     1.71901e-01
+        23         28     1.00000e+00     2.21361e-01     1.36165e-01
+        24         29     1.00000e+00     2.21226e-01     1.29514e-01
+        25         30     1.00000e+00     2.21129e-01     1.18783e-01
+        26         31     1.00000e+00     2.21067e-01     8.14954e-02
+        27         32     1.00000e+00     2.21019e-01     6.93891e-02
+        28         33     1.00000e+00     2.20984e-01     6.13097e-02
+        29         34     1.00000e+00     2.20969e-01     7.96231e-02
+        30         35     1.00000e+00     2.20940e-01     3.82379e-02
+        31         36     1.00000e+00     2.20934e-01     3.32783e-02
+        32         37     1.00000e+00     2.20923e-01     2.93932e-02
+        33         38     1.00000e+00     2.20921e-01     4.27143e-02
+        34         39     1.00000e+00     2.20912e-01     2.07656e-02
+        35         40     1.00000e+00     2.20910e-01     1.59998e-02
+        36         41     1.00000e+00     2.20908e-01     1.51469e-02
+        37         42     1.00000e+00     2.20905e-01     1.40747e-02
+        38         43     1.00000e+00     2.20905e-01     1.50202e-02
+        39         44     1.00000e+00     2.20903e-01     7.95336e-03
+        40         45     1.00000e+00     2.20903e-01     7.16553e-03
+        41         46     1.00000e+00     2.20903e-01     6.65611e-03
+        42         48     4.84065e-01     2.20902e-01     6.53086e-03
+        43         49     1.00000e+00     2.20902e-01     4.49031e-03
+        44         50     1.00000e+00     2.20902e-01     3.62285e-03
+        45         51     1.00000e+00     2.20902e-01     3.67367e-03
+        46         52     1.00000e+00     2.20902e-01     3.21104e-03
+        47         53     1.00000e+00     2.20902e-01     2.20683e-03
+        48         54     1.00000e+00     2.20902e-01     1.86153e-03
+        49         55     1.00000e+00     2.20902e-01     1.72074e-03
+        50         56     1.00000e+00     2.20902e-01     1.65320e-03
+        51         57     1.00000e+00     2.20902e-01     1.07290e-03
+        52         58     1.00000e+00     2.20902e-01     8.99858e-04
+        53         59     1.00000e+00     2.20902e-01     7.29111e-04
+        54         60     1.00000e+00     2.20902e-01     9.61498e-04
+        55         61     1.00000e+00     2.20902e-01     4.88765e-04
+        56         62     1.00000e+00     2.20902e-01     3.83663e-04
+        57         63     1.00000e+00     2.20902e-01     3.49742e-04
+        58         64     1.00000e+00     2.20902e-01     3.09064e-04
+        59         65     1.00000e+00     2.20902e-01     3.47022e-04
+Function Value changing by less than TolX
+
+
+start SCRF training
+
+processing the features!!
+..................................................500
+..................................................1000
+..................................................1500
+SCRF: edge optimization only
+. Iteration   FunEvals     Step Length    Function Val        Opt Cond
+.         1          2     8.93112e-01     1.60735e-01     8.87711e-01
+.         2          3     1.00000e+00     1.42282e-01     5.68823e-01
+.         3          4     1.00000e+00     1.23695e-01     4.48179e-01
+.         4          5     1.00000e+00     1.18452e-01     2.78500e-01
+.         5          6     1.00000e+00     1.09369e-01     2.90455e-01
+.         6          7     1.00000e+00     1.01449e-01     3.06127e-01
+.         7          8     1.00000e+00     9.06985e-02     1.68718e-01
+.         8          9     1.00000e+00     8.65961e-02     1.67123e-01
+.         9         10     1.00000e+00     8.50176e-02     1.07161e-01
+.        10         11     1.00000e+00     8.37065e-02     1.04640e-01
+.        11         12     1.00000e+00     8.20002e-02     1.04620e-01
+.        12         13     1.00000e+00     8.06751e-02     8.93986e-02
+.        13         14     1.00000e+00     7.91314e-02     5.63977e-02
+.        14         15     1.00000e+00     7.79403e-02     3.74629e-02
+.        15         16     1.00000e+00     7.70893e-02     5.71046e-02
+.        16         17     1.00000e+00     7.63087e-02     5.50156e-02
+.        17         18     1.00000e+00     7.50559e-02     4.32129e-02
+.        18         19     1.00000e+00     7.49950e-02     5.16155e-02
+......        19         25     0.00000e+00     7.49950e-02     5.16155e-02
+Step Size below TolX
+
+
+start CRBM training
+
+processing the features!!
+..................................................500
+..................................................1000
+..................................................1500
+         dataSet: 'LFW'
+          numDim: 129
+        numLabel: 3
+    numNodes_crf: 256
+      l2reg_node: 1.0000e-04
+    numNodes_rbm: 576
+      opt_nodeup: 0
+          numHid: 400
+           l2reg: 1.0000e-04
+         epsilon: 0.0015
+        epsdecay: 0.0100
+             KCD: 1
+          anneal: 1
+        maxepoch: 450
+       batchSize: 1500
+        savepath: 'weights/slr_l2r0.0001_rmposfeat1_N16/'
+           momch: 5
+           fname: 'crbm_LFW_nD129_nL3_N16_l2n0.0001_rbm_R24_n0_nH400_l2r0.0001_eps0.0015_CD1_ann1_bS1500_iter450'
+
+Elapsed time is 4.015146 seconds.
+epoch 001 : recon_err = 6.15049
+Elapsed time is 3.342785 seconds.
+epoch 002 : recon_err = 5.13124
+Elapsed time is 3.238774 seconds.
+epoch 003 : recon_err = 4.14856
+Elapsed time is 3.225733 seconds.
+epoch 004 : recon_err = 3.61384
+Elapsed time is 3.383329 seconds.
+epoch 005 : recon_err = 3.36586
+Elapsed time is 3.406668 seconds.
+epoch 006 : recon_err = 3.20004
+Elapsed time is 3.337119 seconds.
+epoch 007 : recon_err = 3.11432
+Elapsed time is 3.309988 seconds.
+epoch 008 : recon_err = 3.07838
+Elapsed time is 3.425391 seconds.
+epoch 009 : recon_err = 3.06212
+Elapsed time is 3.300846 seconds.
+epoch 010 : recon_err = 3.04548
+Elapsed time is 3.395967 seconds.
+epoch 011 : recon_err = 3.02005
+Elapsed time is 3.485918 seconds.
+epoch 012 : recon_err = 2.98493
+Elapsed time is 3.323150 seconds.
+epoch 013 : recon_err = 2.94349
+Elapsed time is 3.268773 seconds.
+epoch 014 : recon_err = 2.90035
+Elapsed time is 3.142653 seconds.
+epoch 015 : recon_err = 2.85887
+Elapsed time is 3.318606 seconds.
+epoch 016 : recon_err = 2.82067
+Elapsed time is 3.244636 seconds.
+epoch 017 : recon_err = 2.78504
+Elapsed time is 3.335641 seconds.
+epoch 018 : recon_err = 2.75078
+Elapsed time is 3.362674 seconds.
+epoch 019 : recon_err = 2.71664
+Elapsed time is 3.347223 seconds.
+epoch 020 : recon_err = 2.68328
+Elapsed time is 3.503764 seconds.
+epoch 021 : recon_err = 2.65226
+Elapsed time is 3.261504 seconds.
+epoch 022 : recon_err = 2.62468
+Elapsed time is 3.441847 seconds.
+epoch 023 : recon_err = 2.60079
+Elapsed time is 3.316130 seconds.
+epoch 024 : recon_err = 2.57972
+Elapsed time is 3.471180 seconds.
+epoch 025 : recon_err = 2.56034
+Elapsed time is 3.374782 seconds.
+epoch 026 : recon_err = 2.5418
+Elapsed time is 3.415570 seconds.
+epoch 027 : recon_err = 2.52293
+Elapsed time is 3.379373 seconds.
+epoch 028 : recon_err = 2.50401
+Elapsed time is 3.391740 seconds.
+epoch 029 : recon_err = 2.48459
+Elapsed time is 3.457261 seconds.
+epoch 030 : recon_err = 2.46559
+Elapsed time is 3.409052 seconds.
+epoch 031 : recon_err = 2.44722
+Elapsed time is 3.385071 seconds.
+epoch 032 : recon_err = 2.42956
+Elapsed time is 3.401545 seconds.
+epoch 033 : recon_err = 2.41327
+Elapsed time is 3.370670 seconds.
+epoch 034 : recon_err = 2.3982
+Elapsed time is 3.325463 seconds.
+epoch 035 : recon_err = 2.38434
+Elapsed time is 3.372257 seconds.
+epoch 036 : recon_err = 2.37133
+Elapsed time is 3.245037 seconds.
+epoch 037 : recon_err = 2.35896
+Elapsed time is 3.240962 seconds.
+epoch 038 : recon_err = 2.34684
+Elapsed time is 3.393490 seconds.
+epoch 039 : recon_err = 2.33488
+Elapsed time is 3.431471 seconds.
+epoch 040 : recon_err = 2.3232
+Elapsed time is 3.357451 seconds.
+epoch 041 : recon_err = 2.31185
+Elapsed time is 3.365830 seconds.
+epoch 042 : recon_err = 2.30073
+Elapsed time is 3.400925 seconds.
+epoch 043 : recon_err = 2.28985
+Elapsed time is 3.356692 seconds.
+epoch 044 : recon_err = 2.27939
+Elapsed time is 3.337828 seconds.
+epoch 045 : recon_err = 2.26928
+Elapsed time is 3.422032 seconds.
+epoch 046 : recon_err = 2.25949
+Elapsed time is 3.238355 seconds.
+epoch 047 : recon_err = 2.24995
+Elapsed time is 3.411991 seconds.
+epoch 048 : recon_err = 2.2407
+Elapsed time is 3.483656 seconds.
+epoch 049 : recon_err = 2.23178
+Elapsed time is 3.281748 seconds.
+epoch 050 : recon_err = 2.22348
+Elapsed time is 3.580054 seconds.
+epoch 051 : recon_err = 2.21565
+Elapsed time is 3.610541 seconds.
+epoch 052 : recon_err = 2.20851
+Elapsed time is 3.598276 seconds.
+epoch 053 : recon_err = 2.2022
+Elapsed time is 3.760477 seconds.
+epoch 054 : recon_err = 2.1966
+Elapsed time is 3.581292 seconds.
+epoch 055 : recon_err = 2.19156
+Elapsed time is 3.690903 seconds.
+epoch 056 : recon_err = 2.18652
+Elapsed time is 3.799677 seconds.
+epoch 057 : recon_err = 2.1813
+Elapsed time is 3.845802 seconds.
+epoch 058 : recon_err = 2.17571
+Elapsed time is 3.690266 seconds.
+epoch 059 : recon_err = 2.16998
+Elapsed time is 3.805970 seconds.
+epoch 060 : recon_err = 2.16374
+Elapsed time is 4.080254 seconds.
+epoch 061 : recon_err = 2.1571
+Elapsed time is 4.118522 seconds.
+epoch 062 : recon_err = 2.15067
+Elapsed time is 4.197268 seconds.
+epoch 063 : recon_err = 2.14448
+Elapsed time is 4.062831 seconds.
+epoch 064 : recon_err = 2.1388
+Elapsed time is 4.043379 seconds.
+epoch 065 : recon_err = 2.13342
+Elapsed time is 4.193125 seconds.
+epoch 066 : recon_err = 2.12825
+Elapsed time is 4.115340 seconds.
+epoch 067 : recon_err = 2.12328
+Elapsed time is 3.948842 seconds.
+epoch 068 : recon_err = 2.11841
+Elapsed time is 4.104327 seconds.
+epoch 069 : recon_err = 2.11379
+Elapsed time is 3.965709 seconds.
+epoch 070 : recon_err = 2.10911
+Elapsed time is 4.343657 seconds.
+epoch 071 : recon_err = 2.10425
+Elapsed time is 4.471054 seconds.
+epoch 072 : recon_err = 2.09973
+Elapsed time is 4.414513 seconds.
+epoch 073 : recon_err = 2.0956
+Elapsed time is 4.345725 seconds.
+epoch 074 : recon_err = 2.09166
+Elapsed time is 4.438015 seconds.
+epoch 075 : recon_err = 2.08793
+Elapsed time is 4.637206 seconds.
+epoch 076 : recon_err = 2.08425
+Elapsed time is 4.473675 seconds.
+epoch 077 : recon_err = 2.08053
+Elapsed time is 4.403900 seconds.
+epoch 078 : recon_err = 2.07683
+Elapsed time is 4.534012 seconds.
+epoch 079 : recon_err = 2.07295
+Elapsed time is 4.484851 seconds.
+epoch 080 : recon_err = 2.06883
+Elapsed time is 4.768942 seconds.
+epoch 081 : recon_err = 2.06482
+Elapsed time is 4.648076 seconds.
+epoch 082 : recon_err = 2.06118
+Elapsed time is 4.670791 seconds.
+epoch 083 : recon_err = 2.05773
+Elapsed time is 4.848054 seconds.
+epoch 084 : recon_err = 2.05437
+Elapsed time is 4.974785 seconds.
+epoch 085 : recon_err = 2.05101
+Elapsed time is 4.788501 seconds.
+epoch 086 : recon_err = 2.04788
+Elapsed time is 4.756833 seconds.
+epoch 087 : recon_err = 2.04472
+Elapsed time is 4.755516 seconds.
+epoch 088 : recon_err = 2.04145
+Elapsed time is 4.732318 seconds.
+epoch 089 : recon_err = 2.03817
+Elapsed time is 4.717906 seconds.
+epoch 090 : recon_err = 2.03478
+Elapsed time is 5.057210 seconds.
+epoch 091 : recon_err = 2.03145
+Elapsed time is 5.370494 seconds.
+epoch 092 : recon_err = 2.02839
+Elapsed time is 5.093813 seconds.
+epoch 093 : recon_err = 2.0255
+Elapsed time is 5.192767 seconds.
+epoch 094 : recon_err = 2.02271
+Elapsed time is 5.221046 seconds.
+epoch 095 : recon_err = 2.02006
+Elapsed time is 5.205799 seconds.
+epoch 096 : recon_err = 2.01746
+Elapsed time is 5.146992 seconds.
+epoch 097 : recon_err = 2.01498
+Elapsed time is 5.161135 seconds.
+epoch 098 : recon_err = 2.01238
+Elapsed time is 5.271413 seconds.
+epoch 099 : recon_err = 2.00964
+Elapsed time is 5.399227 seconds.
+epoch 100 : recon_err = 2.00676
+Elapsed time is 5.584903 seconds.
+epoch 101 : recon_err = 2.00375
+Elapsed time is 5.930363 seconds.
+epoch 102 : recon_err = 2.00069
+Elapsed time is 5.685954 seconds.
+epoch 103 : recon_err = 1.99793
+Elapsed time is 5.442803 seconds.
+epoch 104 : recon_err = 1.99531
+Elapsed time is 5.551698 seconds.
+epoch 105 : recon_err = 1.9928
+Elapsed time is 5.460192 seconds.
+epoch 106 : recon_err = 1.99043
+Elapsed time is 5.718662 seconds.
+epoch 107 : recon_err = 1.98828
+Elapsed time is 5.653193 seconds.
+epoch 108 : recon_err = 1.98615
+Elapsed time is 5.541675 seconds.
+epoch 109 : recon_err = 1.98387
+Elapsed time is 5.523051 seconds.
+epoch 110 : recon_err = 1.98134
+Elapsed time is 5.939093 seconds.
+epoch 111 : recon_err = 1.97874
+Elapsed time is 6.017904 seconds.
+epoch 112 : recon_err = 1.97614
+Elapsed time is 6.004393 seconds.
+epoch 113 : recon_err = 1.97356
+Elapsed time is 6.060033 seconds.
+epoch 114 : recon_err = 1.97113
+Elapsed time is 5.942575 seconds.
+epoch 115 : recon_err = 1.96879
+Elapsed time is 6.115165 seconds.
+epoch 116 : recon_err = 1.96673
+Elapsed time is 6.097932 seconds.
+epoch 117 : recon_err = 1.96465
+Elapsed time is 6.033297 seconds.
+epoch 118 : recon_err = 1.96247
+Elapsed time is 6.146878 seconds.
+epoch 119 : recon_err = 1.96027
+Elapsed time is 6.046979 seconds.
+epoch 120 : recon_err = 1.95814
+Elapsed time is 6.421090 seconds.
+epoch 121 : recon_err = 1.95608
+Elapsed time is 6.321862 seconds.
+epoch 122 : recon_err = 1.95417
+Elapsed time is 6.471692 seconds.
+epoch 123 : recon_err = 1.95244
+Elapsed time is 6.700745 seconds.
+epoch 124 : recon_err = 1.95101
+Elapsed time is 6.498728 seconds.
+epoch 125 : recon_err = 1.94972
+Elapsed time is 6.485546 seconds.
+epoch 126 : recon_err = 1.94819
+Elapsed time is 6.494509 seconds.
+epoch 127 : recon_err = 1.9465
+Elapsed time is 6.431407 seconds.
+epoch 128 : recon_err = 1.94466
+Elapsed time is 6.356752 seconds.
+epoch 129 : recon_err = 1.94263
+Elapsed time is 6.475798 seconds.
+epoch 130 : recon_err = 1.94046
+Elapsed time is 6.948367 seconds.
+epoch 131 : recon_err = 1.93822
+Elapsed time is 6.870838 seconds.
+epoch 132 : recon_err = 1.93596
+Elapsed time is 6.762796 seconds.
+epoch 133 : recon_err = 1.93371
+Elapsed time is 6.584291 seconds.
+epoch 134 : recon_err = 1.93144
+Elapsed time is 6.695708 seconds.
+epoch 135 : recon_err = 1.92946
+Elapsed time is 6.838828 seconds.
+epoch 136 : recon_err = 1.92756
+Elapsed time is 6.733973 seconds.
+epoch 137 : recon_err = 1.92593
+Elapsed time is 6.758244 seconds.
+epoch 138 : recon_err = 1.9243
+Elapsed time is 6.769483 seconds.
+epoch 139 : recon_err = 1.92271
+Elapsed time is 6.718537 seconds.
+epoch 140 : recon_err = 1.9213
+Elapsed time is 7.157662 seconds.
+epoch 141 : recon_err = 1.91989
+Elapsed time is 7.146415 seconds.
+epoch 142 : recon_err = 1.9184
+Elapsed time is 7.510650 seconds.
+epoch 143 : recon_err = 1.91695
+Elapsed time is 7.115355 seconds.
+epoch 144 : recon_err = 1.91536
+Elapsed time is 7.211953 seconds.
+epoch 145 : recon_err = 1.91372
+Elapsed time is 7.272037 seconds.
+epoch 146 : recon_err = 1.91197
+Elapsed time is 7.162408 seconds.
+epoch 147 : recon_err = 1.91035
+Elapsed time is 7.157291 seconds.
+epoch 148 : recon_err = 1.90869
+Elapsed time is 7.270559 seconds.
+epoch 149 : recon_err = 1.9069
+Elapsed time is 7.133324 seconds.
+epoch 150 : recon_err = 1.90495
+Elapsed time is 7.466079 seconds.
+epoch 151 : recon_err = 1.90317
+Elapsed time is 7.567395 seconds.
+epoch 152 : recon_err = 1.90167
+Elapsed time is 7.421278 seconds.
+epoch 153 : recon_err = 1.90033
+Elapsed time is 7.519170 seconds.
+epoch 154 : recon_err = 1.89889
+Elapsed time is 7.409562 seconds.
+epoch 155 : recon_err = 1.89745
+Elapsed time is 7.521980 seconds.
+epoch 156 : recon_err = 1.89597
+Elapsed time is 7.500391 seconds.
+epoch 157 : recon_err = 1.89455
+Elapsed time is 7.463312 seconds.
+epoch 158 : recon_err = 1.89286
+Elapsed time is 7.462552 seconds.
+epoch 159 : recon_err = 1.89113
+Elapsed time is 7.360525 seconds.
+epoch 160 : recon_err = 1.88944
+Elapsed time is 7.937289 seconds.
+epoch 161 : recon_err = 1.88798
+Elapsed time is 7.930421 seconds.
+epoch 162 : recon_err = 1.8867
+Elapsed time is 7.841601 seconds.
+epoch 163 : recon_err = 1.88549
+Elapsed time is 8.032062 seconds.
+epoch 164 : recon_err = 1.88415
+Elapsed time is 7.945812 seconds.
+epoch 165 : recon_err = 1.8827
+Elapsed time is 7.959623 seconds.
+epoch 166 : recon_err = 1.88115
+Elapsed time is 7.893338 seconds.
+epoch 167 : recon_err = 1.87965
+Elapsed time is 7.873740 seconds.
+epoch 168 : recon_err = 1.87805
+Elapsed time is 7.729308 seconds.
+epoch 169 : recon_err = 1.87638
+Elapsed time is 7.960603 seconds.
+epoch 170 : recon_err = 1.87484
+Elapsed time is 8.401275 seconds.
+epoch 171 : recon_err = 1.87358
+Elapsed time is 8.390679 seconds.
+epoch 172 : recon_err = 1.87244
+Elapsed time is 8.408434 seconds.
+epoch 173 : recon_err = 1.87143
+Elapsed time is 8.283176 seconds.
+epoch 174 : recon_err = 1.87042
+Elapsed time is 8.225024 seconds.
+epoch 175 : recon_err = 1.86935
+Elapsed time is 8.252675 seconds.
+epoch 176 : recon_err = 1.86819
+Elapsed time is 8.331137 seconds.
+epoch 177 : recon_err = 1.86688
+Elapsed time is 8.272865 seconds.
+epoch 178 : recon_err = 1.86535
+Elapsed time is 8.336046 seconds.
+epoch 179 : recon_err = 1.86387
+Elapsed time is 8.324872 seconds.
+epoch 180 : recon_err = 1.8623
+Elapsed time is 8.629977 seconds.
+epoch 181 : recon_err = 1.86072
+Elapsed time is 8.590561 seconds.
+epoch 182 : recon_err = 1.85926
+Elapsed time is 8.675738 seconds.
+epoch 183 : recon_err = 1.85787
+Elapsed time is 8.810790 seconds.
+epoch 184 : recon_err = 1.8565
+Elapsed time is 8.621587 seconds.
+epoch 185 : recon_err = 1.85531
+Elapsed time is 8.459505 seconds.
+epoch 186 : recon_err = 1.85411
+Elapsed time is 8.640006 seconds.
+epoch 187 : recon_err = 1.8529
+Elapsed time is 8.595239 seconds.
+epoch 188 : recon_err = 1.85181
+Elapsed time is 8.652774 seconds.
+epoch 189 : recon_err = 1.85066
+Elapsed time is 8.758588 seconds.
+epoch 190 : recon_err = 1.84945
+Elapsed time is 9.147481 seconds.
+epoch 191 : recon_err = 1.84815
+Elapsed time is 9.133286 seconds.
+epoch 192 : recon_err = 1.84693
+Elapsed time is 8.935739 seconds.
+epoch 193 : recon_err = 1.84577
+Elapsed time is 8.916378 seconds.
+epoch 194 : recon_err = 1.84448
+Elapsed time is 8.912605 seconds.
+epoch 195 : recon_err = 1.84337
+Elapsed time is 9.003470 seconds.
+epoch 196 : recon_err = 1.84222
+Elapsed time is 9.033856 seconds.
+epoch 197 : recon_err = 1.84124
+Elapsed time is 8.826859 seconds.
+epoch 198 : recon_err = 1.84045
+Elapsed time is 9.009646 seconds.
+epoch 199 : recon_err = 1.83959
+Elapsed time is 9.186826 seconds.
+epoch 200 : recon_err = 1.83855
+Elapsed time is 9.362379 seconds.
+epoch 201 : recon_err = 1.8375
+Elapsed time is 9.445038 seconds.
+epoch 202 : recon_err = 1.83636
+Elapsed time is 9.412855 seconds.
+epoch 203 : recon_err = 1.83528
+Elapsed time is 9.375282 seconds.
+epoch 204 : recon_err = 1.83413
+Elapsed time is 9.546777 seconds.
+epoch 205 : recon_err = 1.83282
+Elapsed time is 9.249362 seconds.
+epoch 206 : recon_err = 1.83145
+Elapsed time is 9.374044 seconds.
+epoch 207 : recon_err = 1.83012
+Elapsed time is 9.382530 seconds.
+epoch 208 : recon_err = 1.82866
+Elapsed time is 9.521915 seconds.
+epoch 209 : recon_err = 1.82709
+Elapsed time is 9.545322 seconds.
+epoch 210 : recon_err = 1.82572
+Elapsed time is 9.856833 seconds.
+epoch 211 : recon_err = 1.82455
+Elapsed time is 9.986834 seconds.
+epoch 212 : recon_err = 1.82364
+Elapsed time is 9.913026 seconds.
+epoch 213 : recon_err = 1.82292
+Elapsed time is 9.941567 seconds.
+epoch 214 : recon_err = 1.82211
+Elapsed time is 9.896292 seconds.
+epoch 215 : recon_err = 1.82139
+Elapsed time is 9.946016 seconds.
+epoch 216 : recon_err = 1.82071
+Elapsed time is 9.847230 seconds.
+epoch 217 : recon_err = 1.8201
+Elapsed time is 10.011607 seconds.
+epoch 218 : recon_err = 1.8194
+Elapsed time is 9.841785 seconds.
+epoch 219 : recon_err = 1.81843
+Elapsed time is 9.898850 seconds.
+epoch 220 : recon_err = 1.81718
+Elapsed time is 10.296711 seconds.
+epoch 221 : recon_err = 1.81582
+Elapsed time is 10.275397 seconds.
+epoch 222 : recon_err = 1.81435
+Elapsed time is 10.256292 seconds.
+epoch 223 : recon_err = 1.81283
+Elapsed time is 10.442096 seconds.
+epoch 224 : recon_err = 1.81164
+Elapsed time is 10.398404 seconds.
+epoch 225 : recon_err = 1.81062
+Elapsed time is 10.304076 seconds.
+epoch 226 : recon_err = 1.80969
+Elapsed time is 10.384464 seconds.
+epoch 227 : recon_err = 1.80884
+Elapsed time is 10.390518 seconds.
+epoch 228 : recon_err = 1.80818
+Elapsed time is 10.320925 seconds.
+epoch 229 : recon_err = 1.80771
+Elapsed time is 10.506409 seconds.
+epoch 230 : recon_err = 1.80727
+Elapsed time is 10.710677 seconds.
+epoch 231 : recon_err = 1.80679
+Elapsed time is 10.542557 seconds.
+epoch 232 : recon_err = 1.80615
+Elapsed time is 10.717929 seconds.
+epoch 233 : recon_err = 1.80518
+Elapsed time is 10.727422 seconds.
+epoch 234 : recon_err = 1.80413
+Elapsed time is 10.788989 seconds.
+epoch 235 : recon_err = 1.80292
+Elapsed time is 10.778467 seconds.
+epoch 236 : recon_err = 1.80167
+Elapsed time is 10.754196 seconds.
+epoch 237 : recon_err = 1.80031
+Elapsed time is 10.736856 seconds.
+epoch 238 : recon_err = 1.7989
+Elapsed time is 10.898957 seconds.
+epoch 239 : recon_err = 1.79747
+Elapsed time is 10.681766 seconds.
+epoch 240 : recon_err = 1.79629
+Elapsed time is 11.178812 seconds.
+epoch 241 : recon_err = 1.79525
+Elapsed time is 11.108656 seconds.
+epoch 242 : recon_err = 1.79455
+Elapsed time is 11.088778 seconds.
+epoch 243 : recon_err = 1.79403
+Elapsed time is 11.105179 seconds.
+epoch 244 : recon_err = 1.79359
+Elapsed time is 10.823218 seconds.
+epoch 245 : recon_err = 1.79323
+Elapsed time is 11.029178 seconds.
+epoch 246 : recon_err = 1.79269
+Elapsed time is 11.047839 seconds.
+epoch 247 : recon_err = 1.79191
+Elapsed time is 10.862828 seconds.
+epoch 248 : recon_err = 1.79092
+Elapsed time is 10.926023 seconds.
+epoch 249 : recon_err = 1.7898
+Elapsed time is 10.957790 seconds.
+epoch 250 : recon_err = 1.78855
+Elapsed time is 11.368885 seconds.
+epoch 251 : recon_err = 1.7873
+Elapsed time is 11.330896 seconds.
+epoch 252 : recon_err = 1.78601
+Elapsed time is 11.364866 seconds.
+epoch 253 : recon_err = 1.78473
+Elapsed time is 11.550943 seconds.
+epoch 254 : recon_err = 1.78363
+Elapsed time is 11.258126 seconds.
+epoch 255 : recon_err = 1.78276
+Elapsed time is 11.367352 seconds.
+epoch 256 : recon_err = 1.78197
+Elapsed time is 11.364978 seconds.
+epoch 257 : recon_err = 1.78122
+Elapsed time is 11.488032 seconds.
+epoch 258 : recon_err = 1.78033
+Elapsed time is 11.393062 seconds.
+epoch 259 : recon_err = 1.77936
+Elapsed time is 11.389497 seconds.
+epoch 260 : recon_err = 1.77856
+Elapsed time is 11.766627 seconds.
+epoch 261 : recon_err = 1.77794
+Elapsed time is 11.876698 seconds.
+epoch 262 : recon_err = 1.77736
+Elapsed time is 11.829520 seconds.
+epoch 263 : recon_err = 1.77676
+Elapsed time is 11.806278 seconds.
+epoch 264 : recon_err = 1.77621
+Elapsed time is 11.762165 seconds.
+epoch 265 : recon_err = 1.77564
+Elapsed time is 11.830406 seconds.
+epoch 266 : recon_err = 1.77479
+Elapsed time is 11.817728 seconds.
+epoch 267 : recon_err = 1.77399
+Elapsed time is 11.791928 seconds.
+epoch 268 : recon_err = 1.77296
+Elapsed time is 11.809063 seconds.
+epoch 269 : recon_err = 1.77199
+Elapsed time is 11.708799 seconds.
+epoch 270 : recon_err = 1.7709
+Elapsed time is 12.127241 seconds.
+epoch 271 : recon_err = 1.76985
+Elapsed time is 12.184246 seconds.
+epoch 272 : recon_err = 1.76896
+Elapsed time is 12.090073 seconds.
+epoch 273 : recon_err = 1.76814
+Elapsed time is 12.119146 seconds.
+epoch 274 : recon_err = 1.76748
+Elapsed time is 12.227797 seconds.
+epoch 275 : recon_err = 1.76681
+Elapsed time is 12.203540 seconds.
+epoch 276 : recon_err = 1.76607
+Elapsed time is 12.160140 seconds.
+epoch 277 : recon_err = 1.76546
+Elapsed time is 12.246877 seconds.
+epoch 278 : recon_err = 1.76473
+Elapsed time is 12.279588 seconds.
+epoch 279 : recon_err = 1.76406
+Elapsed time is 12.115010 seconds.
+epoch 280 : recon_err = 1.76319
+Elapsed time is 12.585028 seconds.
+epoch 281 : recon_err = 1.76239
+Elapsed time is 12.501943 seconds.
+epoch 282 : recon_err = 1.76144
+Elapsed time is 12.520943 seconds.
+epoch 283 : recon_err = 1.76056
+Elapsed time is 12.519709 seconds.
+epoch 284 : recon_err = 1.75966
+Elapsed time is 12.648756 seconds.
+epoch 285 : recon_err = 1.75883
+Elapsed time is 12.658301 seconds.
+epoch 286 : recon_err = 1.75797
+Elapsed time is 12.530953 seconds.
+epoch 287 : recon_err = 1.75722
+Elapsed time is 12.524898 seconds.
+epoch 288 : recon_err = 1.75667
+Elapsed time is 12.572112 seconds.
+epoch 289 : recon_err = 1.7562
+Elapsed time is 12.627409 seconds.
+epoch 290 : recon_err = 1.75565
+Elapsed time is 12.798027 seconds.
+epoch 291 : recon_err = 1.75514
+Elapsed time is 12.750362 seconds.
+epoch 292 : recon_err = 1.75469
+Elapsed time is 12.944412 seconds.
+epoch 293 : recon_err = 1.75426
+Elapsed time is 12.949132 seconds.
+epoch 294 : recon_err = 1.75374
+Elapsed time is 13.142395 seconds.
+epoch 295 : recon_err = 1.75317
+Elapsed time is 12.797046 seconds.
+epoch 296 : recon_err = 1.75238
+Elapsed time is 12.890213 seconds.
+epoch 297 : recon_err = 1.75138
+Elapsed time is 12.857497 seconds.
+epoch 298 : recon_err = 1.7503
+Elapsed time is 12.848355 seconds.
+epoch 299 : recon_err = 1.74923
+Elapsed time is 12.930426 seconds.
+epoch 300 : recon_err = 1.74813
+Elapsed time is 12.842566 seconds.
+epoch 301 : recon_err = 1.74706
+Elapsed time is 12.879910 seconds.
+epoch 302 : recon_err = 1.74623
+Elapsed time is 12.901349 seconds.
+epoch 303 : recon_err = 1.74553
+Elapsed time is 12.902484 seconds.
+epoch 304 : recon_err = 1.74506
+Elapsed time is 12.846169 seconds.
+epoch 305 : recon_err = 1.74452
+Elapsed time is 13.026469 seconds.
+epoch 306 : recon_err = 1.74401
+Elapsed time is 12.936800 seconds.
+epoch 307 : recon_err = 1.74343
+Elapsed time is 12.947013 seconds.
+epoch 308 : recon_err = 1.74272
+Elapsed time is 12.898036 seconds.
+epoch 309 : recon_err = 1.74208
+Elapsed time is 12.845458 seconds.
+epoch 310 : recon_err = 1.74131
+Elapsed time is 12.870459 seconds.
+epoch 311 : recon_err = 1.74056
+Elapsed time is 12.878084 seconds.
+epoch 312 : recon_err = 1.73959
+Elapsed time is 12.954372 seconds.
+epoch 313 : recon_err = 1.73865
+Elapsed time is 12.793845 seconds.
+epoch 314 : recon_err = 1.73763
+Elapsed time is 12.878655 seconds.
+epoch 315 : recon_err = 1.73677
+Elapsed time is 12.938887 seconds.
+epoch 316 : recon_err = 1.7361
+Elapsed time is 12.896987 seconds.
+epoch 317 : recon_err = 1.73554
+Elapsed time is 12.961140 seconds.
+epoch 318 : recon_err = 1.73493
+Elapsed time is 12.925585 seconds.
+epoch 319 : recon_err = 1.73438
+Elapsed time is 12.800404 seconds.
+epoch 320 : recon_err = 1.73385
+Elapsed time is 12.907802 seconds.
+epoch 321 : recon_err = 1.73332
+Elapsed time is 12.859554 seconds.
+epoch 322 : recon_err = 1.73265
+Elapsed time is 12.911230 seconds.
+epoch 323 : recon_err = 1.73185
+Elapsed time is 12.874603 seconds.
+epoch 324 : recon_err = 1.73101
+Elapsed time is 12.895388 seconds.
+epoch 325 : recon_err = 1.73017
+Elapsed time is 12.845114 seconds.
+epoch 326 : recon_err = 1.72935
+Elapsed time is 12.946482 seconds.
+epoch 327 : recon_err = 1.72863
+Elapsed time is 12.965059 seconds.
+epoch 328 : recon_err = 1.7281
+Elapsed time is 12.942636 seconds.
+epoch 329 : recon_err = 1.72741
+Elapsed time is 13.048503 seconds.
+epoch 330 : recon_err = 1.72677
+Elapsed time is 12.944802 seconds.
+epoch 331 : recon_err = 1.7262
+Elapsed time is 12.949390 seconds.
+epoch 332 : recon_err = 1.72563
+Elapsed time is 12.822623 seconds.
+epoch 333 : recon_err = 1.725
+Elapsed time is 12.952007 seconds.
+epoch 334 : recon_err = 1.72434
+Elapsed time is 12.805645 seconds.
+epoch 335 : recon_err = 1.72343
+Elapsed time is 13.018587 seconds.
+epoch 336 : recon_err = 1.72246
+Elapsed time is 12.954000 seconds.
+epoch 337 : recon_err = 1.72164
+Elapsed time is 12.908795 seconds.
+epoch 338 : recon_err = 1.72103
+Elapsed time is 12.908109 seconds.
+epoch 339 : recon_err = 1.72053
+Elapsed time is 12.972181 seconds.
+epoch 340 : recon_err = 1.72009
+Elapsed time is 12.865915 seconds.
+epoch 341 : recon_err = 1.71958
+Elapsed time is 12.932021 seconds.
+epoch 342 : recon_err = 1.71889
+Elapsed time is 12.912886 seconds.
+epoch 343 : recon_err = 1.71823
+Elapsed time is 13.072345 seconds.
+epoch 344 : recon_err = 1.71749
+Elapsed time is 12.956694 seconds.
+epoch 345 : recon_err = 1.71678
+Elapsed time is 12.822188 seconds.
+epoch 346 : recon_err = 1.71618
+Elapsed time is 12.946843 seconds.
+epoch 347 : recon_err = 1.71571
+Elapsed time is 12.849841 seconds.
+epoch 348 : recon_err = 1.71541
+Elapsed time is 12.865440 seconds.
+epoch 349 : recon_err = 1.71503
+Elapsed time is 12.974921 seconds.
+epoch 350 : recon_err = 1.71462
+Elapsed time is 12.942120 seconds.
+epoch 351 : recon_err = 1.71403
+Elapsed time is 13.131773 seconds.
+epoch 352 : recon_err = 1.71332
+Elapsed time is 12.966948 seconds.
+epoch 353 : recon_err = 1.71255
+Elapsed time is 12.849337 seconds.
+epoch 354 : recon_err = 1.71175
+Elapsed time is 12.897470 seconds.
+epoch 355 : recon_err = 1.71086
+Elapsed time is 12.879657 seconds.
+epoch 356 : recon_err = 1.70986
+Elapsed time is 12.795343 seconds.
+epoch 357 : recon_err = 1.70884
+Elapsed time is 12.894089 seconds.
+epoch 358 : recon_err = 1.70786
+Elapsed time is 13.010460 seconds.
+epoch 359 : recon_err = 1.70702
+Elapsed time is 12.779184 seconds.
+epoch 360 : recon_err = 1.70628
+Elapsed time is 12.981251 seconds.
+epoch 361 : recon_err = 1.70566
+Elapsed time is 12.918681 seconds.
+epoch 362 : recon_err = 1.70523
+Elapsed time is 13.010972 seconds.
+epoch 363 : recon_err = 1.705
+Elapsed time is 12.809219 seconds.
+epoch 364 : recon_err = 1.70486
+Elapsed time is 12.926388 seconds.
+epoch 365 : recon_err = 1.70465
+Elapsed time is 12.895834 seconds.
+epoch 366 : recon_err = 1.70458
+Elapsed time is 12.910362 seconds.
+epoch 367 : recon_err = 1.70443
+Elapsed time is 12.898617 seconds.
+epoch 368 : recon_err = 1.70411
+Elapsed time is 12.753429 seconds.
+epoch 369 : recon_err = 1.70364
+Elapsed time is 12.928240 seconds.
+epoch 370 : recon_err = 1.70298
+Elapsed time is 12.910831 seconds.
+epoch 371 : recon_err = 1.70215
+Elapsed time is 12.941305 seconds.
+epoch 372 : recon_err = 1.70109
+Elapsed time is 12.940252 seconds.
+epoch 373 : recon_err = 1.69999
+Elapsed time is 12.854444 seconds.
+epoch 374 : recon_err = 1.699
+Elapsed time is 12.875246 seconds.
+epoch 375 : recon_err = 1.69812
+Elapsed time is 12.958851 seconds.
+epoch 376 : recon_err = 1.69731
+Elapsed time is 12.987108 seconds.
+epoch 377 : recon_err = 1.69651
+Elapsed time is 12.812947 seconds.
+epoch 378 : recon_err = 1.69586
+Elapsed time is 12.848870 seconds.
+epoch 379 : recon_err = 1.69532
+Elapsed time is 12.771502 seconds.
+epoch 380 : recon_err = 1.69472
+Elapsed time is 12.979617 seconds.
+epoch 381 : recon_err = 1.69403
+Elapsed time is 12.976023 seconds.
+epoch 382 : recon_err = 1.69329
+Elapsed time is 12.841114 seconds.
+epoch 383 : recon_err = 1.69255
+Elapsed time is 12.861092 seconds.
+epoch 384 : recon_err = 1.69204
+Elapsed time is 12.745830 seconds.
+epoch 385 : recon_err = 1.69172
+Elapsed time is 12.870543 seconds.
+epoch 386 : recon_err = 1.69143
+Elapsed time is 12.852338 seconds.
+epoch 387 : recon_err = 1.69108
+Elapsed time is 12.935692 seconds.
+epoch 388 : recon_err = 1.69071
+Elapsed time is 12.729441 seconds.
+epoch 389 : recon_err = 1.69014
+Elapsed time is 12.782154 seconds.
+epoch 390 : recon_err = 1.68944
+Elapsed time is 12.926043 seconds.
+epoch 391 : recon_err = 1.68868
+Elapsed time is 12.913496 seconds.
+epoch 392 : recon_err = 1.68804
+Elapsed time is 12.907668 seconds.
+epoch 393 : recon_err = 1.68743
+Elapsed time is 13.040831 seconds.
+epoch 394 : recon_err = 1.68686
+Elapsed time is 12.937597 seconds.
+epoch 395 : recon_err = 1.68621
+Elapsed time is 12.789109 seconds.
+epoch 396 : recon_err = 1.68559
+Elapsed time is 12.899361 seconds.
+epoch 397 : recon_err = 1.68496
+Elapsed time is 12.928006 seconds.
+epoch 398 : recon_err = 1.68438
+Elapsed time is 13.197150 seconds.
+epoch 399 : recon_err = 1.68386
+Elapsed time is 12.869993 seconds.
+epoch 400 : recon_err = 1.68336
+Elapsed time is 12.824050 seconds.
+epoch 401 : recon_err = 1.68295
+Elapsed time is 12.981295 seconds.
+epoch 402 : recon_err = 1.6825
+Elapsed time is 12.901342 seconds.
+epoch 403 : recon_err = 1.68196
+Elapsed time is 12.903927 seconds.
+epoch 404 : recon_err = 1.68141
+Elapsed time is 12.926082 seconds.
+epoch 405 : recon_err = 1.68081
+Elapsed time is 12.950662 seconds.
+epoch 406 : recon_err = 1.68009
+Elapsed time is 12.906462 seconds.
+epoch 407 : recon_err = 1.67938
+Elapsed time is 12.751589 seconds.
+epoch 408 : recon_err = 1.67856
+Elapsed time is 12.913595 seconds.
+epoch 409 : recon_err = 1.67785
+Elapsed time is 12.940973 seconds.
+epoch 410 : recon_err = 1.67705
+Elapsed time is 12.841278 seconds.
+epoch 411 : recon_err = 1.67638
+Elapsed time is 12.980928 seconds.
+epoch 412 : recon_err = 1.67579
+Elapsed time is 12.884606 seconds.
+epoch 413 : recon_err = 1.67536
+Elapsed time is 12.879433 seconds.
+epoch 414 : recon_err = 1.67518
+Elapsed time is 12.887297 seconds.
+epoch 415 : recon_err = 1.67494
+Elapsed time is 12.904888 seconds.
+epoch 416 : recon_err = 1.67459
+Elapsed time is 12.918892 seconds.
+epoch 417 : recon_err = 1.67422
+Elapsed time is 12.896949 seconds.
+epoch 418 : recon_err = 1.67369
+Elapsed time is 12.855783 seconds.
+epoch 419 : recon_err = 1.67313
+Elapsed time is 12.908172 seconds.
+epoch 420 : recon_err = 1.67264
+Elapsed time is 12.870226 seconds.
+epoch 421 : recon_err = 1.67213
+Elapsed time is 12.911175 seconds.
+epoch 422 : recon_err = 1.67155
+Elapsed time is 12.991540 seconds.
+epoch 423 : recon_err = 1.67084
+Elapsed time is 12.928812 seconds.
+epoch 424 : recon_err = 1.67015
+Elapsed time is 12.971817 seconds.
+epoch 425 : recon_err = 1.6694
+Elapsed time is 12.975115 seconds.
+epoch 426 : recon_err = 1.66868
+Elapsed time is 12.930465 seconds.
+epoch 427 : recon_err = 1.66802
+Elapsed time is 13.096862 seconds.
+epoch 428 : recon_err = 1.66746
+Elapsed time is 12.911536 seconds.
+epoch 429 : recon_err = 1.66687
+Elapsed time is 12.970074 seconds.
+epoch 430 : recon_err = 1.66634
+Elapsed time is 12.959059 seconds.
+epoch 431 : recon_err = 1.66592
+Elapsed time is 12.911869 seconds.
+epoch 432 : recon_err = 1.66557
+Elapsed time is 12.815390 seconds.
+epoch 433 : recon_err = 1.66503
+Elapsed time is 12.969446 seconds.
+epoch 434 : recon_err = 1.66459
+Elapsed time is 12.747700 seconds.
+epoch 435 : recon_err = 1.66425
+Elapsed time is 12.998535 seconds.
+epoch 436 : recon_err = 1.66386
+Elapsed time is 12.951441 seconds.
+epoch 437 : recon_err = 1.66345
+Elapsed time is 12.927452 seconds.
+epoch 438 : recon_err = 1.66278
+Elapsed time is 12.834596 seconds.
+epoch 439 : recon_err = 1.66207
+Elapsed time is 12.803876 seconds.
+epoch 440 : recon_err = 1.66126
+Elapsed time is 12.859758 seconds.
+epoch 441 : recon_err = 1.66042
+Elapsed time is 13.062601 seconds.
+epoch 442 : recon_err = 1.65962
+Elapsed time is 12.660916 seconds.
+epoch 443 : recon_err = 1.65893
+Elapsed time is 12.912286 seconds.
+epoch 444 : recon_err = 1.6584
+Elapsed time is 13.095584 seconds.
+epoch 445 : recon_err = 1.65803
+Elapsed time is 12.783816 seconds.
+epoch 446 : recon_err = 1.6577
+Elapsed time is 12.851341 seconds.
+epoch 447 : recon_err = 1.65755
+Elapsed time is 12.895395 seconds.
+epoch 448 : recon_err = 1.6575
+Elapsed time is 12.909109 seconds.
+epoch 449 : recon_err = 1.65744
+Elapsed time is 12.885125 seconds.
+epoch 450 : recon_err = 1.65733
+
+
+start GLOC training
+
+processing the features!!
+..................................................500
+..................................................1000
+..................................................1500
+         dataSet: 'LFW'
+          numDim: 129
+        numLabel: 3
+    numNodes_crf: 256
+      l2reg_node: 1.0000e-04
+      l2reg_edge: 1.0000e-04
+    numNodes_rbm: 576
+          numHid: 400
+           l2reg: 1.0000e-04
+         epsilon: 0.0023
+        epsdecay: 0.0100
+             KCD: 30
+          anneal: 0
+             nMF: 0
+        maxepoch: 300
+       batchSize: 1500
+        savepath: 'weights/slr_l2r0.0001_rmposfeat1_N16/'
+           momch: 5
+     save_epochs: [30 60 90 120 150 180 210 240 270 300]
+           fname: 'gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500'
+
+start negative phase ... done!
+epoch 001 : recon_err = 2.08573, pred_acc = 0.954227, time = 198.525
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 002 : recon_err = 2.07605, pred_acc = 0.954052, time = 192.649
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 003 : recon_err = 2.06587, pred_acc = 0.954037, time = 192.53
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 004 : recon_err = 2.05311, pred_acc = 0.955064, time = 189.149
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 005 : recon_err = 2.03965, pred_acc = 0.955249, time = 188.084
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 006 : recon_err = 2.02714, pred_acc = 0.956159, time = 189.163
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 007 : recon_err = 2.00981, pred_acc = 0.956347, time = 189.481
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 008 : recon_err = 1.99933, pred_acc = 0.956593, time = 190.236
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 009 : recon_err = 1.99258, pred_acc = 0.956946, time = 189.037
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 010 : recon_err = 1.98813, pred_acc = 0.956857, time = 188.56
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 011 : recon_err = 1.98099, pred_acc = 0.956643, time = 189.738
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 012 : recon_err = 1.97808, pred_acc = 0.956567, time = 190.266
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 013 : recon_err = 1.97062, pred_acc = 0.955673, time = 189.307
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 014 : recon_err = 1.97255, pred_acc = 0.956156, time = 187.754
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 015 : recon_err = 1.97486, pred_acc = 0.95543, time = 187.462
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 016 : recon_err = 1.97266, pred_acc = 0.956347, time = 186.945
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 017 : recon_err = 1.96667, pred_acc = 0.956018, time = 187.552
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 018 : recon_err = 1.96231, pred_acc = 0.956028, time = 188.861
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 019 : recon_err = 1.95624, pred_acc = 0.9564, time = 188.154
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 020 : recon_err = 1.95138, pred_acc = 0.956172, time = 188.871
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 021 : recon_err = 1.9492, pred_acc = 0.956664, time = 188.393
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 022 : recon_err = 1.94564, pred_acc = 0.957064, time = 188.719
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 023 : recon_err = 1.93729, pred_acc = 0.956708, time = 188.429
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 024 : recon_err = 1.93368, pred_acc = 0.957006, time = 188.782
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 025 : recon_err = 1.92672, pred_acc = 0.957314, time = 189.015
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 026 : recon_err = 1.92078, pred_acc = 0.95779, time = 189.211
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 027 : recon_err = 1.91538, pred_acc = 0.958253, time = 189.17
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 028 : recon_err = 1.90929, pred_acc = 0.958645, time = 188.93
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 029 : recon_err = 1.90575, pred_acc = 0.958352, time = 188.234
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 030 : recon_err = 1.90132, pred_acc = 0.958802, time = 188.27
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 031 : recon_err = 1.89646, pred_acc = 0.958151, time = 186.512
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 032 : recon_err = 1.89203, pred_acc = 0.95801, time = 188.106
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 033 : recon_err = 1.88601, pred_acc = 0.959092, time = 188.564
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 034 : recon_err = 1.88181, pred_acc = 0.959042, time = 188.178
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 035 : recon_err = 1.87585, pred_acc = 0.959442, time = 188.162
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 036 : recon_err = 1.8708, pred_acc = 0.959672, time = 187.784
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 037 : recon_err = 1.86744, pred_acc = 0.958619, time = 187.289
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 038 : recon_err = 1.86568, pred_acc = 0.959142, time = 187.585
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 039 : recon_err = 1.86404, pred_acc = 0.959442, time = 186.835
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 040 : recon_err = 1.86037, pred_acc = 0.959863, time = 186.869
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 041 : recon_err = 1.857, pred_acc = 0.960111, time = 188.302
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 042 : recon_err = 1.85597, pred_acc = 0.960174, time = 187.745
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 043 : recon_err = 1.8531, pred_acc = 0.959636, time = 187.609
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 044 : recon_err = 1.85154, pred_acc = 0.959994, time = 187.291
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 045 : recon_err = 1.84936, pred_acc = 0.959834, time = 187.769
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 046 : recon_err = 1.84746, pred_acc = 0.959753, time = 187.55
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 047 : recon_err = 1.8457, pred_acc = 0.960177, time = 187.513
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 048 : recon_err = 1.84164, pred_acc = 0.960022, time = 187.218
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 049 : recon_err = 1.83841, pred_acc = 0.960158, time = 187.965
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 050 : recon_err = 1.83706, pred_acc = 0.960822, time = 186.96
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 051 : recon_err = 1.83449, pred_acc = 0.960127, time = 187.612
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 052 : recon_err = 1.83217, pred_acc = 0.961207, time = 188.699
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 053 : recon_err = 1.83029, pred_acc = 0.960642, time = 188.407
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 054 : recon_err = 1.82717, pred_acc = 0.961251, time = 188.786
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 055 : recon_err = 1.825, pred_acc = 0.960626, time = 188.072
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 056 : recon_err = 1.82264, pred_acc = 0.960409, time = 186.377
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 057 : recon_err = 1.81849, pred_acc = 0.961416, time = 187.143
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 058 : recon_err = 1.81312, pred_acc = 0.960903, time = 186.648
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 059 : recon_err = 1.81228, pred_acc = 0.960702, time = 187.193
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 060 : recon_err = 1.80876, pred_acc = 0.961447, time = 186.284
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 061 : recon_err = 1.80571, pred_acc = 0.961463, time = 187.318
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 062 : recon_err = 1.8035, pred_acc = 0.961612, time = 187.156
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 063 : recon_err = 1.80156, pred_acc = 0.961633, time = 186
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 064 : recon_err = 1.8, pred_acc = 0.96198, time = 186.933
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 065 : recon_err = 1.79799, pred_acc = 0.961523, time = 187.196
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 066 : recon_err = 1.79669, pred_acc = 0.962121, time = 187.083
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 067 : recon_err = 1.79599, pred_acc = 0.961476, time = 186.434
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 068 : recon_err = 1.7951, pred_acc = 0.961444, time = 187.397
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 069 : recon_err = 1.79323, pred_acc = 0.961688, time = 186.228
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 070 : recon_err = 1.79092, pred_acc = 0.962027, time = 186.149
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 071 : recon_err = 1.78908, pred_acc = 0.962425, time = 187.239
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 072 : recon_err = 1.78742, pred_acc = 0.961863, time = 186.998
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 073 : recon_err = 1.78572, pred_acc = 0.962859, time = 186.409
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 074 : recon_err = 1.78434, pred_acc = 0.962116, time = 187.684
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 075 : recon_err = 1.78338, pred_acc = 0.962273, time = 188.277
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 076 : recon_err = 1.78213, pred_acc = 0.962579, time = 187.874
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 077 : recon_err = 1.78104, pred_acc = 0.962216, time = 188.746
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 078 : recon_err = 1.77987, pred_acc = 0.962163, time = 190.642
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 079 : recon_err = 1.77997, pred_acc = 0.961884, time = 189.411
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 080 : recon_err = 1.77931, pred_acc = 0.962265, time = 187.734
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 081 : recon_err = 1.77718, pred_acc = 0.962148, time = 188.348
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 082 : recon_err = 1.77424, pred_acc = 0.962061, time = 186.669
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 083 : recon_err = 1.77286, pred_acc = 0.96181, time = 187.446
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 084 : recon_err = 1.77148, pred_acc = 0.962419, time = 187.86
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 085 : recon_err = 1.76954, pred_acc = 0.962268, time = 187.656
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 086 : recon_err = 1.76809, pred_acc = 0.961729, time = 186.939
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 087 : recon_err = 1.76643, pred_acc = 0.96272, time = 186.984
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 088 : recon_err = 1.76378, pred_acc = 0.962498, time = 187.54
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 089 : recon_err = 1.76287, pred_acc = 0.962976, time = 186.846
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 090 : recon_err = 1.76191, pred_acc = 0.963102, time = 187.001
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 091 : recon_err = 1.76094, pred_acc = 0.962681, time = 187.758
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 092 : recon_err = 1.75943, pred_acc = 0.962953, time = 188.454
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 093 : recon_err = 1.75826, pred_acc = 0.962683, time = 189.686
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 094 : recon_err = 1.75739, pred_acc = 0.963081, time = 190.143
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 095 : recon_err = 1.75647, pred_acc = 0.962741, time = 190.297
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 096 : recon_err = 1.757, pred_acc = 0.962686, time = 190.603
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 097 : recon_err = 1.7556, pred_acc = 0.962657, time = 194.749
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 098 : recon_err = 1.75438, pred_acc = 0.963146, time = 187.743
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 099 : recon_err = 1.75338, pred_acc = 0.962566, time = 184.1
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 100 : recon_err = 1.75248, pred_acc = 0.962683, time = 185.656
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 101 : recon_err = 1.75168, pred_acc = 0.962582, time = 186.948
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 102 : recon_err = 1.75053, pred_acc = 0.963107, time = 187.53
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 103 : recon_err = 1.74813, pred_acc = 0.963402, time = 187.812
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 104 : recon_err = 1.74671, pred_acc = 0.963821, time = 184.888
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 105 : recon_err = 1.74587, pred_acc = 0.962853, time = 185.725
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 106 : recon_err = 1.74477, pred_acc = 0.962589, time = 184.949
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 107 : recon_err = 1.74157, pred_acc = 0.96323, time = 185.226
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 108 : recon_err = 1.74109, pred_acc = 0.9634, time = 185.011
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 109 : recon_err = 1.74024, pred_acc = 0.963428, time = 184.773
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 110 : recon_err = 1.73945, pred_acc = 0.963638, time = 185.568
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 111 : recon_err = 1.73842, pred_acc = 0.963308, time = 185.021
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 112 : recon_err = 1.73701, pred_acc = 0.963374, time = 185.248
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 113 : recon_err = 1.735, pred_acc = 0.963549, time = 185.415
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 114 : recon_err = 1.73344, pred_acc = 0.963598, time = 184.661
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 115 : recon_err = 1.73257, pred_acc = 0.962955, time = 185.416
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 116 : recon_err = 1.73159, pred_acc = 0.963638, time = 185.287
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 117 : recon_err = 1.73206, pred_acc = 0.963164, time = 185.474
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 118 : recon_err = 1.73229, pred_acc = 0.963177, time = 186.925
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 119 : recon_err = 1.73147, pred_acc = 0.963557, time = 189.451
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 120 : recon_err = 1.72912, pred_acc = 0.96376, time = 186.904
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 121 : recon_err = 1.72688, pred_acc = 0.963627, time = 186.734
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 122 : recon_err = 1.72609, pred_acc = 0.96358, time = 186.035
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 123 : recon_err = 1.7251, pred_acc = 0.963888, time = 187.159
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 124 : recon_err = 1.72444, pred_acc = 0.963753, time = 186.326
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 125 : recon_err = 1.72356, pred_acc = 0.9638, time = 186.198
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 126 : recon_err = 1.72341, pred_acc = 0.963648, time = 186.654
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 127 : recon_err = 1.72255, pred_acc = 0.963347, time = 185.668
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 128 : recon_err = 1.72042, pred_acc = 0.96375, time = 185.404
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 129 : recon_err = 1.71929, pred_acc = 0.963915, time = 185.453
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 130 : recon_err = 1.71806, pred_acc = 0.964244, time = 186.264
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 131 : recon_err = 1.71668, pred_acc = 0.963146, time = 185.635
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 132 : recon_err = 1.71611, pred_acc = 0.963533, time = 185.528
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 133 : recon_err = 1.71634, pred_acc = 0.964312, time = 185.612
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 134 : recon_err = 1.71476, pred_acc = 0.963766, time = 185.791
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 135 : recon_err = 1.71453, pred_acc = 0.963426, time = 184.99
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 136 : recon_err = 1.71395, pred_acc = 0.96444, time = 185.271
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 137 : recon_err = 1.71298, pred_acc = 0.96329, time = 184.948
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 138 : recon_err = 1.71174, pred_acc = 0.963405, time = 185.337
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 139 : recon_err = 1.71152, pred_acc = 0.963499, time = 186.061
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 140 : recon_err = 1.71087, pred_acc = 0.964022, time = 185.191
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 141 : recon_err = 1.70994, pred_acc = 0.963591, time = 184.766
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 142 : recon_err = 1.70947, pred_acc = 0.964294, time = 185.109
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 143 : recon_err = 1.70961, pred_acc = 0.963951, time = 184.709
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 144 : recon_err = 1.70934, pred_acc = 0.963502, time = 184.895
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 145 : recon_err = 1.70857, pred_acc = 0.96352, time = 184.519
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 146 : recon_err = 1.7074, pred_acc = 0.964456, time = 184.895
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 147 : recon_err = 1.70607, pred_acc = 0.964147, time = 185.062
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 148 : recon_err = 1.70511, pred_acc = 0.963755, time = 184.657
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 149 : recon_err = 1.70449, pred_acc = 0.963468, time = 184.884
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 150 : recon_err = 1.70363, pred_acc = 0.963347, time = 185.091
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 151 : recon_err = 1.70325, pred_acc = 0.964824, time = 185.281
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 152 : recon_err = 1.70243, pred_acc = 0.964262, time = 185.704
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 153 : recon_err = 1.70101, pred_acc = 0.963766, time = 184.875
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 154 : recon_err = 1.70057, pred_acc = 0.964304, time = 185.984
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 155 : recon_err = 1.69975, pred_acc = 0.963807, time = 187.749
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 156 : recon_err = 1.69934, pred_acc = 0.9641, time = 187.169
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 157 : recon_err = 1.69866, pred_acc = 0.964278, time = 187.074
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 158 : recon_err = 1.69827, pred_acc = 0.964644, time = 186.765
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 159 : recon_err = 1.69733, pred_acc = 0.964074, time = 187.63
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 160 : recon_err = 1.69663, pred_acc = 0.964367, time = 187.042
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 161 : recon_err = 1.69617, pred_acc = 0.964158, time = 187.199
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 162 : recon_err = 1.69621, pred_acc = 0.964437, time = 186.623
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 163 : recon_err = 1.69505, pred_acc = 0.963983, time = 186.969
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 164 : recon_err = 1.69467, pred_acc = 0.964312, time = 186.807
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 165 : recon_err = 1.69454, pred_acc = 0.964513, time = 186.961
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 166 : recon_err = 1.69348, pred_acc = 0.964576, time = 186.525
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 167 : recon_err = 1.69223, pred_acc = 0.964048, time = 186.242
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 168 : recon_err = 1.69281, pred_acc = 0.964652, time = 187.07
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 169 : recon_err = 1.69105, pred_acc = 0.963682, time = 186.671
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 170 : recon_err = 1.69105, pred_acc = 0.964338, time = 186.729
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 171 : recon_err = 1.69127, pred_acc = 0.964492, time = 186.632
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 172 : recon_err = 1.6911, pred_acc = 0.964542, time = 187.813
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 173 : recon_err = 1.69069, pred_acc = 0.964968, time = 185.944
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 174 : recon_err = 1.68965, pred_acc = 0.964746, time = 185.124
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 175 : recon_err = 1.6894, pred_acc = 0.964806, time = 184.575
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 176 : recon_err = 1.68815, pred_acc = 0.964558, time = 184.463
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 177 : recon_err = 1.68742, pred_acc = 0.964234, time = 184.366
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 178 : recon_err = 1.68686, pred_acc = 0.96524, time = 185.015
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 179 : recon_err = 1.68647, pred_acc = 0.965101, time = 185.1
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 180 : recon_err = 1.68547, pred_acc = 0.964782, time = 184.867
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 181 : recon_err = 1.68443, pred_acc = 0.964809, time = 186.017
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 182 : recon_err = 1.68387, pred_acc = 0.964388, time = 185.037
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 183 : recon_err = 1.68285, pred_acc = 0.964709, time = 184.673
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 184 : recon_err = 1.6826, pred_acc = 0.964602, time = 185.285
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 185 : recon_err = 1.68255, pred_acc = 0.965203, time = 185.59
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 186 : recon_err = 1.68159, pred_acc = 0.964555, time = 185.131
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 187 : recon_err = 1.68148, pred_acc = 0.964884, time = 184.784
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 188 : recon_err = 1.68126, pred_acc = 0.964934, time = 185.113
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 189 : recon_err = 1.68007, pred_acc = 0.964973, time = 184.315
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 190 : recon_err = 1.6792, pred_acc = 0.96466, time = 185
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 191 : recon_err = 1.67908, pred_acc = 0.96445, time = 185.382
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 192 : recon_err = 1.67885, pred_acc = 0.965125, time = 185.215
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 193 : recon_err = 1.67841, pred_acc = 0.964207, time = 187.595
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 194 : recon_err = 1.67795, pred_acc = 0.965405, time = 187.556
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 195 : recon_err = 1.67727, pred_acc = 0.96495, time = 187.414
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 196 : recon_err = 1.67683, pred_acc = 0.964503, time = 188.117
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 197 : recon_err = 1.67595, pred_acc = 0.964945, time = 187.561
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 198 : recon_err = 1.67545, pred_acc = 0.964508, time = 187.52
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 199 : recon_err = 1.67494, pred_acc = 0.964555, time = 187.022
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 200 : recon_err = 1.67491, pred_acc = 0.964699, time = 186.715
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 201 : recon_err = 1.67489, pred_acc = 0.965086, time = 187.276
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 202 : recon_err = 1.67391, pred_acc = 0.964971, time = 187.721
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 203 : recon_err = 1.67345, pred_acc = 0.964665, time = 187.219
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 204 : recon_err = 1.67289, pred_acc = 0.964981, time = 187.115
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 205 : recon_err = 1.67211, pred_acc = 0.964717, time = 186.806
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 206 : recon_err = 1.67184, pred_acc = 0.964534, time = 186.786
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 207 : recon_err = 1.67114, pred_acc = 0.964973, time = 188.483
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 208 : recon_err = 1.67075, pred_acc = 0.96508, time = 187.124
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 209 : recon_err = 1.67086, pred_acc = 0.965101, time = 186.823
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 210 : recon_err = 1.66963, pred_acc = 0.965211, time = 187.473
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 211 : recon_err = 1.66887, pred_acc = 0.964843, time = 187.365
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 212 : recon_err = 1.66857, pred_acc = 0.964968, time = 187.302
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 213 : recon_err = 1.66814, pred_acc = 0.964947, time = 187.715
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 214 : recon_err = 1.6674, pred_acc = 0.965065, time = 187.384
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 215 : recon_err = 1.66655, pred_acc = 0.965263, time = 187.12
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 216 : recon_err = 1.66633, pred_acc = 0.965219, time = 186.802
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 217 : recon_err = 1.66561, pred_acc = 0.965611, time = 188.137
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 218 : recon_err = 1.66503, pred_acc = 0.964513, time = 187.612
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 219 : recon_err = 1.66503, pred_acc = 0.965441, time = 187.381
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 220 : recon_err = 1.66474, pred_acc = 0.96508, time = 187.968
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 221 : recon_err = 1.66457, pred_acc = 0.964759, time = 187.32
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 222 : recon_err = 1.66415, pred_acc = 0.965253, time = 186.983
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 223 : recon_err = 1.66325, pred_acc = 0.96512, time = 188.076
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 224 : recon_err = 1.66222, pred_acc = 0.965049, time = 186.72
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 225 : recon_err = 1.66154, pred_acc = 0.965052, time = 188.014
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 226 : recon_err = 1.66117, pred_acc = 0.96484, time = 188.2
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 227 : recon_err = 1.66103, pred_acc = 0.965588, time = 187.762
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 228 : recon_err = 1.66081, pred_acc = 0.96472, time = 187.224
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 229 : recon_err = 1.65989, pred_acc = 0.965258, time = 187.015
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 230 : recon_err = 1.65979, pred_acc = 0.966079, time = 187.095
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 231 : recon_err = 1.65952, pred_acc = 0.965219, time = 187.968
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 232 : recon_err = 1.65891, pred_acc = 0.964911, time = 188.018
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 233 : recon_err = 1.65963, pred_acc = 0.965794, time = 187.592
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 234 : recon_err = 1.65916, pred_acc = 0.965446, time = 187.432
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 235 : recon_err = 1.6588, pred_acc = 0.964696, time = 187.822
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 236 : recon_err = 1.65748, pred_acc = 0.964809, time = 188.112
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 237 : recon_err = 1.65729, pred_acc = 0.965276, time = 187.129
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 238 : recon_err = 1.65706, pred_acc = 0.965412, time = 187.675
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 239 : recon_err = 1.65674, pred_acc = 0.965658, time = 187.793
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 240 : recon_err = 1.65626, pred_acc = 0.964811, time = 188.525
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 241 : recon_err = 1.65531, pred_acc = 0.965148, time = 187.658
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 242 : recon_err = 1.65483, pred_acc = 0.965232, time = 188.063
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 243 : recon_err = 1.65362, pred_acc = 0.965692, time = 188.159
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 244 : recon_err = 1.65335, pred_acc = 0.965172, time = 187.446
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 245 : recon_err = 1.65296, pred_acc = 0.964824, time = 187.621
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 246 : recon_err = 1.6526, pred_acc = 0.965352, time = 187.972
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 247 : recon_err = 1.65242, pred_acc = 0.965378, time = 187.693
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 248 : recon_err = 1.65319, pred_acc = 0.964999, time = 188.079
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 249 : recon_err = 1.65302, pred_acc = 0.964913, time = 188.291
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 250 : recon_err = 1.65258, pred_acc = 0.9649, time = 187.522
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 251 : recon_err = 1.65247, pred_acc = 0.965998, time = 188.117
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 252 : recon_err = 1.6509, pred_acc = 0.965935, time = 188.093
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 253 : recon_err = 1.65042, pred_acc = 0.965491, time = 188.269
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 254 : recon_err = 1.64998, pred_acc = 0.965326, time = 187.485
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 255 : recon_err = 1.64956, pred_acc = 0.965156, time = 188.083
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 256 : recon_err = 1.64935, pred_acc = 0.965692, time = 187.632
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 257 : recon_err = 1.64928, pred_acc = 0.964887, time = 187.901
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 258 : recon_err = 1.64899, pred_acc = 0.965624, time = 188.608
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 259 : recon_err = 1.64926, pred_acc = 0.965104, time = 187.905
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 260 : recon_err = 1.64927, pred_acc = 0.965117, time = 187.953
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 261 : recon_err = 1.64887, pred_acc = 0.965318, time = 187.665
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 262 : recon_err = 1.64822, pred_acc = 0.965875, time = 187.065
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 263 : recon_err = 1.64719, pred_acc = 0.96588, time = 188.156
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 264 : recon_err = 1.64656, pred_acc = 0.965927, time = 188.477
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 265 : recon_err = 1.64591, pred_acc = 0.965588, time = 188.486
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 266 : recon_err = 1.64535, pred_acc = 0.965538, time = 187.975
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 267 : recon_err = 1.64503, pred_acc = 0.965763, time = 187.833
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 268 : recon_err = 1.64486, pred_acc = 0.965666, time = 188.754
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 269 : recon_err = 1.64485, pred_acc = 0.965282, time = 187.44
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 270 : recon_err = 1.64489, pred_acc = 0.965632, time = 187.805
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 271 : recon_err = 1.64464, pred_acc = 0.964871, time = 188.99
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 272 : recon_err = 1.64421, pred_acc = 0.966374, time = 187.401
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 273 : recon_err = 1.64395, pred_acc = 0.966163, time = 188.369
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 274 : recon_err = 1.64359, pred_acc = 0.965705, time = 188.523
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 275 : recon_err = 1.64336, pred_acc = 0.965546, time = 187.73
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 276 : recon_err = 1.64276, pred_acc = 0.965185, time = 190.299
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 277 : recon_err = 1.64269, pred_acc = 0.96605, time = 188.392
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 278 : recon_err = 1.64215, pred_acc = 0.965441, time = 187.219
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 279 : recon_err = 1.64189, pred_acc = 0.965708, time = 186.739
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 280 : recon_err = 1.64178, pred_acc = 0.966157, time = 186.969
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 281 : recon_err = 1.64163, pred_acc = 0.965812, time = 186.893
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 282 : recon_err = 1.64146, pred_acc = 0.965608, time = 187.738
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 283 : recon_err = 1.6412, pred_acc = 0.965747, time = 187.25
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 284 : recon_err = 1.64087, pred_acc = 0.965726, time = 187.206
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 285 : recon_err = 1.64055, pred_acc = 0.965823, time = 186.161
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 286 : recon_err = 1.63997, pred_acc = 0.965386, time = 186.842
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 287 : recon_err = 1.63976, pred_acc = 0.966126, time = 187.006
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 288 : recon_err = 1.63947, pred_acc = 0.964688, time = 185.109
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 289 : recon_err = 1.63911, pred_acc = 0.966019, time = 184.709
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 290 : recon_err = 1.63875, pred_acc = 0.96582, time = 185.161
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 291 : recon_err = 1.6386, pred_acc = 0.965669, time = 183.909
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 292 : recon_err = 1.63827, pred_acc = 0.96633, time = 184.306
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 293 : recon_err = 1.63802, pred_acc = 0.965784, time = 184.198
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 294 : recon_err = 1.6373, pred_acc = 0.966102, time = 184.258
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 295 : recon_err = 1.6371, pred_acc = 0.966058, time = 184.466
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 296 : recon_err = 1.63625, pred_acc = 0.966327, time = 183.659
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 297 : recon_err = 1.63615, pred_acc = 0.965462, time = 185.139
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 298 : recon_err = 1.63525, pred_acc = 0.964887, time = 184.633
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 299 : recon_err = 1.63515, pred_acc = 0.966163, time = 183.62
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+start negative phase ... done!
+epoch 300 : recon_err = 1.63542, pred_acc = 0.966455, time = 184.217
+filepath: weights/slr_l2r0.0001_rmposfeat1_N16/
+filename: gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500
+
+
+=============================
+Begin testing! (verbose:0)
+=============================
+
+..........[100/1500] acc = 96.8296
+..........[200/1500] acc = 96.9498
+..........[300/1500] acc = 96.9264
+..........[400/1500] acc = 96.862
+..........[500/1500] acc = 96.839
+..........[600/1500] acc = 96.8254
+..........[700/1500] acc = 96.8615
+..........[800/1500] acc = 96.8327
+..........[900/1500] acc = 96.789
+..........[1000/1500] acc = 96.7586
+..........[1100/1500] acc = 96.7632
+..........[1200/1500] acc = 96.752
+..........[1300/1500] acc = 96.7801
+..........[1400/1500] acc = 96.7897
+..........[1500/1500] acc = 96.7909
+acc = 96.7909, inference time = 0.0783772 (ex/sec)
+..........[100/500] acc = 95.5585
+..........[200/500] acc = 95.2641
+..........[300/500] acc = 95.0223
+..........[400/500] acc = 94.6776
+..........[500/500] acc = 94.906
+acc = 94.906, inference time = 0.0773133 (ex/sec)
+..........[100/927] acc = 95.3166
+..........[200/927] acc = 95.6463
+..........[300/927] acc = 95.0322
+..........[400/927] acc = 95.0154
+..........[500/927] acc = 94.8206
+..........[600/927] acc = 94.9373
+..........[700/927] acc = 94.8994
+..........[800/927] acc = 94.878
+..........[900/927] acc = 95.0105
+..acc = 95.0135, inference time = 0.0797104 (ex/sec)
+
+ans =
+
+   96.7909
+
+>> w_gloc
+Undefined function or variable 'w_gloc'.
+ 
+>> 

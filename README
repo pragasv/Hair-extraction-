@@ -1,0 +1,165 @@
+% ----------------------------------------------------------------------
+% 
+% 
+Instructions for example codes of the following paper:
+%
+% Augmenting CRFs 
+with Boltzmann Machine Shape Priors for Image Labeling
+% Andrew Kae, Kihyuk Sohn, Honglak Lee and Erik Learned-Miller
+% CVPR, 
+2013
+%
+% project page: http://vis-www.cs.umass.edu/GLOC/ 
+% 
+% ----------------------------------------------------------------------
+
+
+
+This matlab package contains code for the following models : 
+
+- Train and test logistic regression (lr)
+- Train and test conditional random fields (crf)
+- 
+Train and test spatial logistic regression (slr)
+- Train and test spatial conditional random fields (scrf)
+- Train and test conditional restricted Boltzmann machines 
+(crbm)
+- Train and test GLOC (gloc)
+
+on LFW part labels database.
+
+
+
+
+Instructions:
+
+a. download package and dataset
+
+- Download the package and unarchive at /*yourfolder*/lfw_gloc/
+ 
+ 
+links:
+    http://vis-www.cs.umass.edu/GLOC/
+
+- Download LFW part label database and unarchive at /*yourfolder*/lfw_gloc/data/
+  
+links:
+    http://vis-www.cs.umass.edu/lfw/lfw-funneled.tgz
+    http://vis-www.cs.umass.edu/lfw/part_labels/parts_lfw_funneled_superpixels_mat.tgz
+    
+http://vis-www.cs.umass.edu/lfw/part_labels/parts_lfw_funneled_spseg_features.tgz
+    http://vis-www.cs.umass.edu/lfw/part_labels/parts_lfw_funneled_gt.tgz
+   
+http://vis-www.cs.umass.edu/lfw/part_labels/parts_lfw_funneled_gt_images.tgz
+
+- 
+
+Download LFW part label database train/validation/test splits and
+  place at /*yourfolder*/lfw_gloc/data/
+  
+links:
+    http://vis-www.cs.umass.edu/lfw/part_labels/parts_train.txt
+    http://vis-www.cs.umass.edu/lfw/part_labels/parts_validation.txt
+   
+http://vis-www.cs.umass.edu/lfw/part_labels/parts_test.txt
+
+
+
+b. 
+edit startup_directory.m (and optionally startup.m) to match the directories on your local machine.
+
+
+
+c. (optional) 
+compute standard deviations used to scale features. 
+These are already provided in the common/ directory, but to regenerate them
+
+* run generate_sds.m
+
+d. 
+
+train and test on LFW part labels database
+
+- Open matlab and execute 'run_lfw_[model].m'.
+
+   * run_lfw_[model].m is composed of
+   
+   1. config_[model].m: set hyperparameters
+   
+   2. train_lfw_[model].m: train model from LFW part labels trainin dataset
+    
+   3. eval_lfw_[model].m: evaluate the model on LFW part labels 
+	
+
+ training/validation/testing dataset
+
+   * model = 'lr', 'crf', 'slr', 'scrf', 'crbm', 'gloc'.
+
+
+
+- The trained models will be stored under /*yourfolder*/lfw_gloc/weights/
+
+- The labeling accuracies will be stored at /*yourfolder*/lfw_gloc/log/[model].
+
+txt
+
+
+
+minFunc optimization package
+----------------------------------
+We used LBFGS in minFunc written by Mark Schmidt
+(http://www.cs.ubc.ca/~schmidtm/Software/minFunc.html)
+
+for optimizing (spatial) logistic regression and conditional random fields.
+
+
+We included minFunc optimization package to this code package. 
+
+
+The minFunc license is as follows:
+
+The software on this webpage is distributed under the 
+FreeBSD-style license below.
+
+Although it is not required, I would also appreciate that any re-distribution of the
+software contains a link to the original webpage. 
+ For example, the webpage for the 
+'minFunc' 
+software is: http://www.di.ens.fr/~mschmidt/Software/minFunc.html
+
+=======================================================================================
+
+
+Copyright 2005-2012 Mark Schmidt. 
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are
+permitted provided that the following conditions are met:
+
+ 
+  1. Redistributions of source code must retain the above copyright notice, this list of
+      conditions and the following disclaimer.
+
+  
+  2. Redistributions in binary form must reproduce the above copyright notice, this list
+      of conditions and the following disclaimer
+ in the documentation and/or other materials
+      provided with the distribution.
+
+
+THIS SOFTWARE IS PROVIDED BY THE AUTHOR ''AS IS'' AND ANY EXPRESS OR IMPLIED
+WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF 
+MERCHANTABILITY AND
+FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.
+ IN NO EVENT SHALL THE AUTHOR OR
+CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+CONSEQUENTIAL DAMAGES 
+(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED 
+AND ON
+ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS 
+SOFTWARE, EVEN IF
+ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+=======================================================================================
