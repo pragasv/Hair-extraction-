@@ -1,0 +1,1 @@
+acc (val) = 94.906, acc (test) = 95.0135, (gloc_LFW_nD129_nL3_N16_l2n0.0001_l2e0.0001_rbm_R24_nH400_l2r0.0001_eps0.002308_CD30_ann0_bS1500)
